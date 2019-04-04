@@ -1,0 +1,14 @@
+Owner : Chintan Solanki of the App
+
+These application work with mongoDB as database system and keep track of the job and machine.
+Run Program.py file from src folder.
+
+
+Furture scope:
+
+Alogrithm for different scheduling methods can be added for scheduling different jobs
+
+s
+python-switch script was used for switching between differnet cases.
+python-switch is a module-level implementation of the switch statement for Python.
+See https://github.com/mikeckennedy/python-switch for full details.
